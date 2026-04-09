@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Andreanmps/Andreanmps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ¡Hola! Soy **Andrea Morales** 👋
 
-Here are some ideas to get you started:
+![Banner](https://via.placeholder.com/1200x200/0d1117/ffffff?text=Desarrolladora+Multiplataforma+C%23+JS+SQL)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎓 Sobre mí
+**Estudiante de Ingeniería en Desarrollo y Gestión de Software Multiplataforma**  
+**5° semestre - Universidad Tecnológica de Santa Catarina**
+
+**Especialidades:**
+- 💻 Desarrollo Web y Móvil
+- 🗄️ Bases de Datos (SQL Server)
+- ⚙️ Automatización de Procesos
+
+---
+
+## 🔍 **¡ABIERTA A PRÁCTICAS / ESTADÍAS 2025!**
+**Disponibilidad:** Inmediata  
+**Modalidad:** Presencial (Santa Catarina) / Remoto  
+**Email:** andreanmps@gmail.com
+
+---
+
+## 🛠️ **Tech Stack**
