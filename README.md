@@ -2,7 +2,7 @@
 
 # ¡Hola! Soy **Andrea Morales** 
 
-![Banner](https://via.placeholder.com/1200x200/0d1117/ffffff?text=Desarrolladora+Multiplataforma+C%23+JS+SQL)
+![Banner](https://via.placeholder.com/1200x200/0d1117/ffffff?text=Andrea+Morales+C%23+JS+SQL+Python)
 
 ---
 
