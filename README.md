@@ -17,7 +17,7 @@
 
 ---
 
-## 🔍 **¡ABIERTA A PRÁCTICAS / ESTADÍAS 2025!**
+##  **¡ABIERTA A PRÁCTICAS / ESTADÍAS 2026!**
 **Disponibilidad:** Inmediata  
 **Modalidad:** Presencial (Santa Catarina) / Remoto  
 **Email:** andreanmps@gmail.com
